@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello world ! 
+=======
+Echoist was here !
+
+>>>>>>> parent of 9754c55... xsdfhsdf
