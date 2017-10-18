@@ -1,2 +1,1 @@
-
-Echoist is godlike 
+Hello world ! 
