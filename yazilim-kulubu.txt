@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-Sa
-=======
-<<<<<<< HEAD
-Hello world ! 
-=======
-Echoist was here !
-
->>>>>>> parent of 9754c55... xsdfhsdf
->>>>>>> parent of 23ad0e2... Revert "Revert "sdsd""
+Hi i'm Echoist !
